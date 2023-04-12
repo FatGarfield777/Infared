@@ -121,7 +121,7 @@ body {
 }
 
 .button:hover {
-    color: grey;
+    color: black;
 }
 
 .games {
@@ -146,7 +146,7 @@ body {
 }
 
 .ytlink:hover {
-    color: grey;
+    color: black;
 }
 
 .tabconfig {
@@ -155,7 +155,7 @@ body {
 }
 
 .tabconfig:hover {
-    color: grey;
+    color: black;
 }
 
 .updates_btn {
@@ -164,15 +164,15 @@ body {
 }
 
 .updates_btn:hover {
-    color: grey;
+    color: black;
 }
 
 a:hover {
-    color: grey;
+    color: black;
 }
 
 a {
-    color: white;
+    color: black;
     transition-duration: 0.4s;
     text-decoration: none;
 }
@@ -201,12 +201,12 @@ form input {
     margin-top: 10px;
     border-radius: 50px;
     color: #FFF;
-    border: 5px solid  rgba(255, 255, 255, 0.363);
+    border: 5px solid  rgba(0, 0, 0, 0.363);
     transition-duration: 1s;
 }
 
 form input:focus {
-    border-color: rgba(255, 255, 255, 0.712);
+    border-color: rgba(0, 0, 0, 0.712);
 }
 
 .settings {
@@ -271,7 +271,7 @@ form input:focus {
     color: #FFF;
     margin-top: 1%;
     background: none;
-    border: 5px solid  rgba(255, 255, 255, 0.363);
+    border: 5px solid  rgba(0, 0, 0, 0.363);
 }
 
 .resetButton {
