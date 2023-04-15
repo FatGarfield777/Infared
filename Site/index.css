@@ -13,7 +13,7 @@
 }
 
 body {
-    background: rgb(0,207,255);
+    background: #00cfff;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -62,13 +62,13 @@ body {
 }
 
 .text {
-    color: #FFF;
+    color: #000000;
     font-size: 25px;
     margin-top: 1%;
 }
 
 .textbottom {
-    color: #FFF;
+    color: #000000;
     font-size: 15px;
     margin-top: 0.5%;
     margin-right: 1%;
