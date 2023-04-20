@@ -13,7 +13,7 @@
 }
 
 body {
-    background: #00cfff;
+    background: #e00d0d;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .bar {
-    background-color: #00CFFF;
+    background-color: #e00d0d;
     height: 50px;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 .page {
-    background-color: #00CFFF;
+    background-color: #e00d0d;
     height: 200px;
     width: 600px;
     top: 0;
@@ -51,7 +51,7 @@ body {
 }
 
 .bottom {
-    background-color: #00CFFF;
+    background-color: #e00d0d;
     margin-top: auto;
     height: 50px;
 }
@@ -75,7 +75,7 @@ body {
 }
 
 .linkbottom {
-    color: rgb(116, 192, 255);
+    color: #000000;
     font-size: 14px;
     margin-top: 0.5%;
     margin-right: 0.2%;
@@ -86,7 +86,7 @@ body {
 }
 
 .setting {
-    color: white;
+    color: black;
     display: none;
     font-size: 14px;
     position: fixed;
@@ -109,11 +109,11 @@ body {
     font-size: 35px;
     padding: 8px;
     padding-left: 8px;
-    color: rgba(255, 255, 255, 0.842);
+    color: #000000;
 }
 
 .button {
-    color: white;
+    color: black;
     font-size: 16px;
     position: fixed;
     top: 20px;
@@ -181,14 +181,14 @@ a {
     font-size: 90px;
     margin-top: 13%;
     text-align: center;
-    color: rgba(255, 255, 255, 0.842);
+    color: #000000;
 }
 
 .games_title {
     font-size: 90px;
     margin-top: 5%;
     text-align: center;
-    color: rgba(255, 255, 255, 0.842);
+    color: #000000;
 }
 
 form input {
@@ -201,16 +201,16 @@ form input {
     margin-top: 10px;
     border-radius: 50px;
     color: #FFF;
-    border: 5px solid  rgba(0, 0, 0, 0.363);
+    border: 5px solid  #000000;
     transition-duration: 1s;
 }
 
 form input:focus {
-    border-color: rgba(0, 0, 0, 0.712);
+    border-color: #000000;
 }
 
 .settings {
-    background-color: #00CFFF;
+    background-color: #e00d0d;
     height: 50px;
     position: fixed;
     right: 100px;
@@ -220,7 +220,7 @@ form input:focus {
 }
 
 .updates {
-    background-color: #00CFFF;
+    background-color: #e00d0d;
     height: 50px;
     position: fixed;
     right: 455px;
@@ -252,7 +252,7 @@ form input:focus {
     position: fixed;
     top: 0%;
     right: 50px;
-    color: rgb(255, 32, 32);
+    color: #000000;
 }
 
 .title_main {
@@ -263,7 +263,7 @@ form input:focus {
 .setTitle {
     color: #FFF;
     background: none;
-    border: 5px solid  rgba(0, 0, 0, 0.363);
+    border: 5px solid  #000000;
     margin-top: 1%;
 }
 
@@ -271,19 +271,19 @@ form input:focus {
     color: #FFF;
     margin-top: 1%;
     background: none;
-    border: 5px solid  rgba(0, 0, 0, 0.363);
+    border: 5px solid  #000000;
 }
 
 .resetButton {
     width: 20%;
     font-size: large;
     height: 20%;
-    border: 3px solid rgba(255, 255, 255, 0.842);
+    border: 3px solid rgb(255, 255, 255);
     border-radius: 5px;
     background: #FFF;
     margin-top: 5%;
     cursor: pointer;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .quicktext {
