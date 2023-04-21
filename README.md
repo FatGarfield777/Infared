@@ -1,5 +1,5 @@
-# FGProxy
-The official proxy of [FatGarfield777](https://fatgarfield777.xyz).
+# Infared
+The official proxy of [LithiumNetwork](https://fatgarfield777.xyz).
 
 ## Credits
-FGProxy uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+Infared uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
